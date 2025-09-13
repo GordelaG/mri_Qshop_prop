@@ -1,5 +1,8 @@
 # 📦 mri_Qshop_prop
 
+🌎 Available Languages:  
+[English](./README.md) | [Português](./README-pt.md)
+
 <p align="center">
   <img src="./NewAgeProps.png" alt="mri_Qshop_prop" width="300"/>
 </p>
