@@ -1,16 +1,16 @@
 # 📦 mri_Qshop_prop
 
 <p align="center">
-  <a href="https://discord.gg/SEU_LINK_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord"/>
-  </a>
-  <a href="https://SEU_TEBEX_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Tebex-FF5100?style=for-the-badge&logo=shopping-cart&logoColor=white" alt="Visit our Tebex"/>
-  </a>
+  <img src="./NewAgeProps.png" alt="mri_Qshop_prop" width="300"/>
 </p>
 
 <p align="center">
-  <img src="./NewAgeProps.png" alt="mri_Qshop_prop" width="300"/>
+  <a href="https://discord.gg/SEU_LINK_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2c2f33" alt="Join our Discord"/>
+  </a>
+  <a href="https://SEU_TEBEX_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Tebex-FF5100?style=for-the-badge&logo=shopping-cart&logoColor=white&labelColor=202020" alt="Visit our Tebex"/>
+  </a>
 </p>
 
 The **mri_Qshop_prop** is a support prop developed for integration with the **MRI Qshop system**, providing both visual and functional elements for in-game store interactions.  
