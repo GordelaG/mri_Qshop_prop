@@ -6,10 +6,13 @@
 
 <p align="left">
   <a href="https://discord.gg/tyKTs4QyYA" target="_blank">
-    <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord"/>
+    <img src="https://img.shields.io/badge/Join%20Discord%20NewAge-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord"/>
+  </a>
+  <a href="https://discord.gg/uEfGD4mmVh" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20Discord%20MRI_Qbox-169916?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord"/>
   </a>
   <a href="https://newagestudios.tebex.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Tebex-FF5100?style=for-the-badge&logo=shopping-cart&logoColor=white" alt="Visit our Tebex"/>
+    <img src="https://img.shields.io/badge/Visit%20Tebex%20NewAgeStudios-FF5100?style=for-the-badge&logo=shopping-cart&logoColor=white" alt="Visit our Tebex"/>
   </a>
 </p>
 
