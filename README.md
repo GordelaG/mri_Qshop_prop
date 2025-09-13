@@ -4,8 +4,8 @@
   <img src="./NewAgeProps.png" alt="mri_Qshop_prop" width="300"/>
 </p>
 
-<p align="center">
-  <a href="https://discord.gg/tyKTs4QyYA/" target="_blank">
+<p align="left">
+  <a href="https://discord.gg/tyKTs4QyYA" target="_blank">
     <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord"/>
   </a>
   <a href="https://newagestudios.tebex.io/" target="_blank">
