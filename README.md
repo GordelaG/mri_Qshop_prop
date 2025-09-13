@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://discord.gg/SEU_LINK_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2c2f33" alt="Join our Discord"/>
+    <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Join our Discord"/>
   </a>
   <a href="https://SEU_TEBEX_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Tebex-FF5100?style=for-the-badge&logo=shopping-cart&logoColor=white&labelColor=202020" alt="Visit our Tebex"/>
+    <img src="https://img.shields.io/badge/Visit%20Tebex-FF5100?style=flat&logo=shopping-cart&logoColor=white" alt="Visit our Tebex"/>
   </a>
 </p>
 
