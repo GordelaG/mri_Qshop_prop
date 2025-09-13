@@ -13,6 +13,7 @@
   </a>
 </p>
 
+
 The **mri_Qshop_prop** is a support prop developed for integration with the **MRI Qshop system**, providing both visual and functional elements for in-game store interactions.  
 
 It can be used as a decorative or interactive asset in environments configured for Qshop, ensuring greater immersion and realism in the players’ shopping experience.
