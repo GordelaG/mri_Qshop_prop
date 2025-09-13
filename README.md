@@ -1,6 +1,8 @@
 # 📦 mri_Qshop_prop
 
-![mri_Qshop_prop](./NewAgeProps.png)
+<p align="center">
+  <img src="./NewAgeProps.png" alt="mri_Qshop_prop" width="300"/>
+</p>
 
 O **mri_Qshop_prop** é um objeto auxiliar desenvolvido para integração com o **sistema MRI Qshop**, oferecendo suporte visual e funcional às interações dentro das lojas virtuais e físicas.  
 
