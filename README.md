@@ -5,7 +5,7 @@
 </p>
 
 <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visit%20Tebex-FF5100?style=for-the-badge&logo=shopping-cart&logoColor=white"/>
+<img src="https://newagestudios.tebex.io/"/>
 
 
 The **mri_Qshop_prop** is a support prop developed for integration with the **MRI Qshop system**, providing both visual and functional elements for in-game store interactions.  
